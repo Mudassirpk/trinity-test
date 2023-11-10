@@ -1,0 +1,47 @@
+product_lines_to_seed:
+  - Motorbike
+  - Quad
+  - Kart  
+  - Snowmobile
+  - Jet Ski
+  - Automobile
+  - Truck
+  - 4x4 Vehicle    
+  - Power Boat 
+  - Tractor
+  - Bar Pad
+  - Tank Protector
+  - Stand
+  - Jersey   
+  - Frame Grip
+  - Helmet
+  - Scrutiny
+  - Mini
+  - Hand Protector
+  - Misc
+  - MTB
+  - Road
+  - Whiteboard
+  - Van
+  - Dirt Bike Numbers
+  - Road Bike Numbers
+  - Kart Numbers
+  - Quad Numbers
+  - Generic Numbers
+
+FAM_load_order:
+  - Target Categories
+  - Targets
+  - Regulations
+
+paths:
+  common: /var/hg/repos/milltown/Common
+  icons: /var/hg/repos/milltown/Common/Icons
+  product_lines: "/var/hg/repos/milltown/Product Lines"
+  shapes: /var/hg/repos/milltown/Common/Shapes
+  countries: /var/hg/repos/milltown/Common/countries   
+  fonts: /var/hg/repos/milltown/Common/fonts
+  interview_icons: "/var/hg/repos/milltown/Common/Interview Icons"
+
+placements_folder_name: Placements
+kit_team_report: kit_team_report.txt
