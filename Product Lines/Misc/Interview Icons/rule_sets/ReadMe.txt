@@ -1,0 +1,1 @@
+Required to create an empty folder in mercurial. 
