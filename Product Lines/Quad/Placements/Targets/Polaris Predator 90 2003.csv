@@ -1,0 +1,7 @@
+type,delete,position,shape,feature,placement,x,y,scale,angle,z_index,fill,icon,b1f,b2f,b3f,b4f,b1w,b2w,b3w,b4w,stroke_internal_1,stroke_front_1,spacing,alignment,font_size,font_family,height,text,flipX,flipY,Notes
+Predator 90 2003,,Upper Right Shroud,975,Background,,0,0,1,0,4,Black,,,,,,,,,,1,0,,,,,,,,,
+Predator 90 2003,,Upper Left Shroud,976,Background,,0,0,1,0,5,Black,,,,,,,,,,1,0,,,,,,,,,
+Predator 90 2003,,Upper Left Shroud,976,Designer Added Icon 1,,789.9527015844797,583.1608361781623,15,0,6,Light Navy Blue,8441,,,,,,,,,,,,,,,,,,,
+Predator 90 2003,,Upper Right Shroud,975,Designer Added Icon 1,,672.3242984155204,583.1608361781623,15,0,6,Light Navy Blue,8441,,,,,,,,,,,,,,,,,1,,
+Predator 90 2003,X,Upper Right Shroud,,Target Logo,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Predator 90 2003,X,Upper Left Shroud,,Target Logo,,,,,,,,,,,,,,,,,,,,,,,,,,,

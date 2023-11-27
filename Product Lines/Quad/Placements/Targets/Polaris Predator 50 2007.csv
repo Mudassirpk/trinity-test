@@ -1,0 +1,7 @@
+type,delete,position,shape,feature,placement,x,y,scale,angle,z_index,fill,icon,b1f,b2f,b3f,b4f,b1w,b2w,b3w,b4w,stroke_internal_1,stroke_front_1,spacing,alignment,font_size,font_family,height,text,flipX,flipY,Notes
+Predator 50 2007,,Upper Right Shroud,975,Background,,0,0,1,0,4,Black,,,,,,,,,,1,0,,,,,,,,,
+Predator 50 2007,,Upper Left Shroud,976,Background,,0,0,1,0,5,Black,,,,,,,,,,1,0,,,,,,,,,
+Predator 50 2007,,Upper Left Shroud,976,Designer Added Icon 1,,822.338027399016,569.0802597370596,15,0,6,Light Navy Blue,8441,,,,,,,,,,,,,,,,,,,
+Predator 50 2007,,Upper Right Shroud,975,Designer Added Icon 1,,639.938972600984,569.0802597370596,15,0,6,Light Navy Blue,8441,,,,,,,,,,,,,,,,,1,,
+Predator 50 2007,X,Upper Right Shroud,,Target Logo,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Predator 50 2007,X,Upper Left Shroud,,Target Logo,,,,,,,,,,,,,,,,,,,,,,,,,,,
